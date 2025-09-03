@@ -1,0 +1,46 @@
+.pricing {
+  width: 300px;
+  margin: 20px auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px #ccc;
+  padding: 20px;
+  text-align: left;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 18px;
+  color: green;
+  margin-bottom: 15px;
+}
+
+.features {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 15px;
+}
+
+.features li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.btn {
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background: darkblue;
+}
